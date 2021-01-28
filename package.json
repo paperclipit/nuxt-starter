@@ -16,7 +16,9 @@
   },
   "license": "MIT",
   "dependencies": {
+    "@babel/core": "^7.12.10",
     "@nuxtjs/markdownit": "^1.2.6",
+    "babel-loader": "^8.2.2",
     "nuxt": "^2.11.0"
   },
   "devDependencies": {
